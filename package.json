@@ -1,0 +1,29 @@
+{
+  "name": "traceur-runtime",
+  "version": "0.0.43",
+  "description": "Traceur runtime packaged for NPM",
+  "keywords": [
+	  "traceur",
+      "runtime"
+  ],
+  "author": "Maciej Bielecki",
+  "license": "Apache License 2.0",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "prepublish": "./build.sh"
+  },
+  "homepage": "https://github.com/google/traceur-compiler",
+  "bugs": "https://github.com/google/traceur-compiler/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyla/traceur-runtime"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+	  "traceur": "0.0.42"	  
+  }
+}
