@@ -1,6 +1,6 @@
 {
   "name": "traceur-runtime",
-  "version": "0.0.59",
+  "version": "0.0.87",
   "description": "Traceur runtime packaged for NPM",
   "keywords": [
     "traceur",
@@ -24,6 +24,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "traceur": "0.0.59"
+    "traceur": "0.0.87"
   }
 }
