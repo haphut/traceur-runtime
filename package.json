@@ -3,8 +3,8 @@
   "version": "0.0.59",
   "description": "Traceur runtime packaged for NPM",
   "keywords": [
-	  "traceur",
-      "runtime"
+    "traceur",
+    "runtime"
   ],
   "author": "Maciej Bielecki",
   "license": "Apache License 2.0",
@@ -24,6 +24,6 @@
   "dependencies": {
   },
   "devDependencies": {
-	  "traceur": "0.0.59"
+    "traceur": "0.0.59"
   }
 }
